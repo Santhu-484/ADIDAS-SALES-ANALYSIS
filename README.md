@@ -1,8 +1,8 @@
-# ADIDAS-SALES-ANALYSIS
+# ADIDAS-SALES-ANALYSIS DASHBOARD 📊
 
 This project explores Adidas sales data to identify key trends, analyze customer behavior, and evaluate overall performance. Leveraging the capabilities of Power BI, the report delivers dynamic dashboards and visualizations that empower stakeholders to make informed, data-driven decisions.
 
-# BUSINESS REQUIREMENTS
+# BUSINESS REQUIREMENTS 📈
 
 Through this Power BI-driven analysis, Adidas aims to empower its decision-makers with data-driven insights, fostering strategic growth and competitiveness in the dynamic sports and athletic industry.
 
@@ -13,7 +13,7 @@ Through this Power BI-driven analysis, Adidas aims to empower its decision-maker
 5. Actionable recommendations for optimizing sales and profit across various 
    dimensions.
 
-# Problem Statement
+# Problem Statement 📉
 # KPI's (Key Point Indicators)
 
  1. Total Sales Analysis:
@@ -27,6 +27,7 @@ Through this Power BI-driven analysis, Adidas aims to empower its decision-maker
  5. Margin Analysis:
     Evaluate the average margin to understand the overall profitability of sales.
 
+![Screenshot 2025-05-09 182339](https://github.com/user-attachments/assets/97f2b320-f3cd-4df6-9483-4d67a9d952b0)
 
 
   
